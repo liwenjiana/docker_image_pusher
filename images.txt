@@ -1,1 +1,10 @@
 elasticsearch:7.17.1
+kibana:7.17.1
+rabbitmq:3.12.6-management
+openzipkin/zipkin
+bladex/sentinel-dashboard:1.8.5
+seataio/seata-server:1.4.0
+nacos/nacos-server
+redis
+mysql:5.7
+nginx
