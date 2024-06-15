@@ -1,1 +1,1 @@
-seataio/seata-server:1.4.2
+zipkin:2.23.2
