@@ -1,1 +1,1 @@
-sentinel-dashboard:1.8.3
+seataio/seata-server:1.6.1
