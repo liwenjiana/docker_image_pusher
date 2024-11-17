@@ -1,1 +1,1 @@
-openjdk:8-jdk
+nacos/nacos-server:2.1.0
