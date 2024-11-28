@@ -1,1 +1,1 @@
-styletang/rocketmq-console-ng
+swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard-spray-resource:spray-v2.18.0a-8_k8s-v1.23.11_v1.18-amd64
