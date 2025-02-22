@@ -1,1 +1,1 @@
-swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard:v3
+docker.io/istio/pilot:1.14.3
