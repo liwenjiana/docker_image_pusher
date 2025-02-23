@@ -1,6 +1,1 @@
-docker.io/istio/pilot:1.14.3
-docker.io/istio/proxyv2:1.14.3
-docker.io/istio/operator:1.14.3
-docker.io/jaegertracing/all-in-one:1.23
-docker.io/grafana/grafana:9.1.2
-docker.io/prom/prometheus:v2.34.0
+swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard-spray-resource:spray-v2.18.0a-8_k8s-v1.23.4_v1.9-amd64
