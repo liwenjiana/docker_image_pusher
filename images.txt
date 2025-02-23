@@ -1,1 +1,4 @@
-swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard-spray-resource:spray-v2.18.0a-8_k8s-v1.23.4_v1.9-amd64
+eipwork/kuboard-agent:v3
+eipwork/etcd-host:3.4.16-1
+eipwork/kuboard:v3
+questdb/questdb:6.0.4
