@@ -1,2 +1,1 @@
-gitlab/gitlab-ce:16.11.5-ce.0
-jenkins/jenkins:2.426.3-lts-jdk17
+docker.io/istio/pilot:1.19.6"
